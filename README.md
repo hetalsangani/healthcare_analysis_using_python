@@ -16,5 +16,6 @@ Heart Dataset (data.xlsx)
 
 # Variable Description:
 
-<img width="468" height="350" alt="image" src="https://github.com/user-attachments/assets/65ddb6f8-0e3b-45ea-a066-6cdb6abe73a9" />
+<img width="468" height="352" alt="image" src="https://github.com/user-attachments/assets/6005a777-57cd-444a-82df-77bd226af423" />
+
 
